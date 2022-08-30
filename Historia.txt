@@ -1,8 +1,3 @@
 Hola a todos!
-Empieza el nuevo repositorio del segundo commit!!
-Tengo  30 años
-Tengo 1 Hija
-
-Hoy es un futuro programador
-
-Hoy hablaremos de su vida y obra maestra
+Empieza el nuevo repositorio!!
+Mañana nos enfocarems en su vida laboral
